@@ -1,7 +1,7 @@
 # comp-networks-client-server
 This was my first HW assignment for a Computer Networks class I took while in Grad School. The goal was to create a Client-Server system where multiple clients could chat with each other via a centralized server.
 
-# Brief description the code
+# Brief description of the code
 The files included are as follows: makefile, Server.java, Client.java, userpass.txt, README.md
 
 The makefile compiles the Client and Server files.
